@@ -1,16 +1,10 @@
 # MicroLab
 
-This repository contains the source Processing files for MicroLab, a particle simulation software that demonstrates complex emergent behavior and forms life-like structures. The project is currently under active development.
+This repository contains the source Processing files for MicroLab, a particle simulation software that demonstrates complex emergent behavior and forms life-like structures.
 
-## Features
+## Technologies
 
--   **Particle Simulation**: Simulates particles with emergent behaviors.
--   **Life-like Structures**: Demonstrates the formation of complex, self-organising patterns.
--   **Processing-based**: Built using the Processing development environment.
-
-## Technologies Used
-
--   **Processing**: A flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+-   Processing
 
 ## Up and Running
 
